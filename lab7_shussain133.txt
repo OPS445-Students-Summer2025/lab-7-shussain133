@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: shussain133
+    Linux system name: shussain133-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/shussain133/ops445/lab7
+    Start at: Thu Jul 10 12:50:21 2025
+=================================================================
